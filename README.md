@@ -14,7 +14,7 @@ Software Engineer
 
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
-   Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
+   
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dibwarjeetb@gmail.com](mailto:dibwarjeetb@gmail.com)
