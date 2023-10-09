@@ -20,7 +20,7 @@ Engineer Trainee
 * ✉️  You can contact me at [dibwarjeetb@gmail.com](mailto:dibwarjeetb@gmail.com)
 * 🧠  I'm learning Java & Web Development
 * 🤝  I'm open to learning more about web development
-* ⚡  I'm in my 4th year of Computer Science Engineering, but most of the credit goes to Google xD
+* ⚡  B.Tech graduate in Computer Science Engineering
 
 
 ### Skills
