@@ -5,7 +5,7 @@
 Hi 👋 My name is Dibwarjeet Bordolai
 ==============================
 
-Engineer Trainee
+Backend Developer
 -----------------
 
 
